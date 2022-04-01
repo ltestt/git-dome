@@ -9,7 +9,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "<h1>hello22222</h1>******master8888888";
-//        return "<h1>hello22222</h1>hot-fix*********test";
+        return "<h1>hello22222</h1>******999999";
     }
 }
